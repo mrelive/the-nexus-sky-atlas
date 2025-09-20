@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="public/skyatalslogo.png" alt="The Nexus Sky Atlas Logo" width="200" height="200" />
   <h1>The Nexus Sky Atlas™</h1>
   <p><strong>The Ultimate FPV Spot Discovery and Planning Application</strong></p>
   <p><em>Built by ECHO CORP</em></p>
