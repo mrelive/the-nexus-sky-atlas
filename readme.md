@@ -45,6 +45,6 @@
 
 
 <div align="center">
-  <p><strong>Find your future in the skies 🛩️</strong></p>
+  <p><strong>Find The future in the skies 🛩️</strong></p>
   <p>Made with ❤️ by ECHO CORP</p>
 </div>
